@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timer-Progressbar/static/css/main.77fa0bab.css",
+    "main.js": "/Timer-Progressbar/static/js/main.69226a35.js",
+    "index.html": "/Timer-Progressbar/index.html",
+    "main.77fa0bab.css.map": "/Timer-Progressbar/static/css/main.77fa0bab.css.map",
+    "main.69226a35.js.map": "/Timer-Progressbar/static/js/main.69226a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fa0bab.css",
+    "static/js/main.69226a35.js"
+  ]
+}
